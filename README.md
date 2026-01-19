@@ -39,44 +39,41 @@ How ML is applied across different industries with case studies.
 - **25. Transportation & Logistics**: Route optimization, predictive maintenance.
 - **26. Manufacturing**: Quality control, defect detection.
 - **27. Consumer Internet & Social Media**: Content moderation, feeds.
-- **30. Executive Summary**: High-level overview of ML impact.
+- **28. Executive Summary**: High-level overview of ML impact.
 
 ### 🔹 Module 4: ML Development Life Cycle (`04_ML_Development_Life_Cycle`)
 A complete guide to the end-to-end process of building ML systems.
-- **31. Phase 1: Framing the Problem**: Goals and metrics.
-- **32. Phase 2: Gathering Data**: Sources and requirements.
-- **33. Phase 3: Data Processing & Cleaning**: Pipelines and validation.
-- **34. Phase 4: EDA**: Exploratory Data Analysis techniques.
-- **35. Phase 5: Feature Engineering**: Transformation and selection.
-- **36. Phase 6: Model Training**: Selection and evaluation.
-- **37. Phase 7: Deployment**: Serving models in production.
-- **38. Phase 8: Testing in Production**: Monitoring and A/B testing.
-- **39. Phase 9: Optimization**: Continuous improvement.
+- **29. Phase 1: Framing the Problem**: Goals and metrics.
+- **30. Phase 2: Gathering Data**: Sources and requirements.
+- **31. Phase 3: Data Processing & Cleaning**: Pipelines and validation.
+- **32. Phase 4: EDA**: Exploratory Data Analysis techniques.
+- **33. Phase 5: Feature Engineering**: Transformation and selection.
+- **34. Phase 6: Model Training**: Selection and evaluation.
+- **35. Phase 7: Deployment**: Serving models in production.
+- **36. Phase 8: Testing in Production**: Monitoring and A/B testing.
+- **37. Phase 9: Optimization**: Continuous improvement.
 
 ### 🔹 Module 5: Tensors (`05_Tensors`)
 Deep dive into Tensors, the fundamental data structure of Deep Learning.
-- **40. What are Tensors?**: Definitions and basics.
-- **41. Why Tensors Matter**: Role in Neural Networks.
-- **42. Fundamentals**: Rank, shape, and properties.
-- **43. NumPy & N-Dimensions**: Working with arrays.
-- **44. Dimensions (0D to 5D)**: Real-world examples of each rank.
-- **45. Rank, Axes, and Shape**: Detailed breakdown.
-- **46. Operations**: Reshaping, broadcasting, transposing.
-- **47. Practical Applications**: NLP, Vision, Time-series examples.
-- **48. Quick Reference**: Summary guide.
+- **38. What are Tensors?**: Definitions and basics.
+- **39. Why Tensors Matter**: Role in Neural Networks.
+- **40. Fundamentals**: Rank, shape, and properties.
+- **41. NumPy & N-Dimensions**: Working with arrays.
+- **42. Dimensions (0D to 5D)**: Real-world examples of each rank.
+- **43. Rank, Axes, and Shape**: Detailed breakdown.
+- **44. Operations**: Reshaping, broadcasting, transposing.
+- **45. Practical Applications**: NLP, Vision, Time-series examples.
+- **46. Quick Reference**: Summary guide.
 
 ### 🔹 Module 6: Statistics (`06_Statistics`)
 Comprehensive reference for probability and statistics in ML/DL.
-- **50. Introduction**: Overview of statistics.
-- **51. What is Statistics?**: Definitions and domains.
-- **52. Types of Statistics**: Descriptive vs Inferential.
-- **53. Types of Data**: Categorical vs Numerical.
-- **54. Descriptive Statistics**: Summary methods.
-- **55. Measures of Central Tendency**: Mean, Median, Mode.
-- **56. Measures of Dispersion**: Variance, Std Dev, Range.
-- **57. Univariate Analysis Graphs**: Histograms, Box plots.
-- **58. Bivariate Analysis Graphs**: Scatter plots, Heatmaps.
-- **59. Quick Summary Table**: Reference cheat sheet.
+- **47. What is Statistics?**: Definitions and domains.
+- **48. Types of Statistics**: Descriptive vs Inferential.
+- **49. Types of Data**: Categorical vs Numerical.
+- **50. Measures of Central Tendency**: Mean, Median, Mode.
+- **51. Measures of Dispersion**: Variance, Std Dev, Range.
+- **52. Univariate Analysis Graphs**: Histograms, Box plots.
+- **53. Bivariate Analysis Graphs**: Scatter plots, Heatmaps.
 
 ---
 
