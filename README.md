@@ -2,7 +2,7 @@
 
 This repository contains comprehensive notes, code examples, and practical guides on various Machine Learning concepts, structured chapter-wise for easy learning.
 
-## 📚 Table of Contents
+## Table of Contents
 
 ### 🔹 Module 1: ML Foundations (`01_ML_Foundations`)
 Fundamental concepts of Machine Learning, including learning types and comparisons.
