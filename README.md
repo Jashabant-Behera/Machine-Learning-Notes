@@ -65,6 +65,19 @@ Deep dive into Tensors, the fundamental data structure of Deep Learning.
 - **47. Practical Applications**: NLP, Vision, Time-series examples.
 - **48. Quick Reference**: Summary guide.
 
+### 🔹 Module 6: Statistics (`06_Statistics`)
+Comprehensive reference for probability and statistics in ML/DL.
+- **50. Introduction**: Overview of statistics.
+- **51. What is Statistics?**: Definitions and domains.
+- **52. Types of Statistics**: Descriptive vs Inferential.
+- **53. Types of Data**: Categorical vs Numerical.
+- **54. Descriptive Statistics**: Summary methods.
+- **55. Measures of Central Tendency**: Mean, Median, Mode.
+- **56. Measures of Dispersion**: Variance, Std Dev, Range.
+- **57. Univariate Analysis Graphs**: Histograms, Box plots.
+- **58. Bivariate Analysis Graphs**: Scatter plots, Heatmaps.
+- **59. Quick Summary Table**: Reference cheat sheet.
+
 ---
 
 ## 🛠 Assets
